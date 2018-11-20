@@ -79,9 +79,5 @@ for item in psutil.pids():
     if p.name() == "OUTLOOK.EXE":
         print p.name
     else:
-        print "no match"
-
-        
-        
-        
+        print "no match found"      
  
