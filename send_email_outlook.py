@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 21 15:36:00 2016
 
-@author: Deepesh.Singh
+@author: Deepesh Singh
 """
 
 import win32com.client as win32
